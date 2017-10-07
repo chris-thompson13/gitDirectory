@@ -166,23 +166,43 @@ background-color:blue;
 }
 
 /* About Page */
-
 body {
-    background-color: #3B3251;
-    color: white;
-    font-family: verdana;
+  background-color: #3B3251;
+  color: white;
+  font-family: verdana;
 }
 
-.help-text {
-
-  margin-top: 70px;
+.about-left {
+    width: 178px;
+    float:left;
+    margin-top: 50px;
+}
+.about-general  {
+  margin-left:178px;
+}
+.about-intro {
+  text-align: center;
+  text-shadow: 3px 2px black;
 }
 
-.about-stats {
-  width: 100%;
-text-align: center;
-
+a.about-help {
+  text-decoration: none;
+  color: white;
 }
+
+a.about-help:hover {
+  border-bottom: 1px solid;
+  background: #E67E22;
+}
+
+#space-travel {
+  border-radius: 10px;
+  max-width: 65vw;
+  height: auto;
+  margin: auto;
+  display: block;
+}
+
 #about-text-1 {
   padding: 25px;
 }
