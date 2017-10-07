@@ -173,7 +173,10 @@ body {
     font-family: verdana;
 }
 
+.help-text {
 
+  margin-top: 70px;
+}
 
 .about-stats {
   width: 100%;
