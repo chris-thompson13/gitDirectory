@@ -190,6 +190,11 @@ a.about-help {
   color: white;
 }
 
+.help-text{
+
+  margin-top: 70px;
+}
+
 a.about-help:hover {
   border-bottom: 1px solid;
   background: #E67E22;
