@@ -215,3 +215,35 @@ a.about-help:hover {
 #about-text-2 {
   padding: 25px;
 }
+
+/*This is troy's css. code above or below people*/
+.middle {
+  height: 500px;
+  width: 800px;
+  margin: 0 auto;
+  position: relative;
+  top: 100px;
+  padding: 25px;
+}
+
+.help-text-container {
+  position: relative;
+  margin: 0 auto;
+  height:auto;
+  width: autp;
+  top: 120px;
+}
+
+.help-text-container p {
+  text-align: center;
+  color: orange;
+  font-size: 60px;
+}
+
+.bob {
+  text-align: center;
+  margin: 0 auto;
+  position: absolute;
+}
+
+/*End of my code*/
