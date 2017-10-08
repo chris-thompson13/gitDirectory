@@ -246,4 +246,27 @@ a.about-help:hover {
   position: absolute;
 }
 
+@media only screen and (max-width: 480px) {
+    .bob {
+      width: 400;
+      height: 400;
+    }
+    p {
+      font-size: 12px;
+    }
+}
+@media only screen and (max-width: 768px) {
+  .bob {
+    width: auto;
+    height: auto;
+  }
+
+}
+@media only screen and (max-width: 992px) {
+  .bob {
+    width: auto;
+    height: auto;
+  }
+
+}
 /*End of my code*/
